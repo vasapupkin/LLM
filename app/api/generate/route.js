@@ -4,7 +4,7 @@ export async function POST(request) {
     const { prompt, max_tokens, temperature, top_k, top_p, repetition_penalty } = requestData;
 
     const response = await fetch(
-      "https://db259cfcd72e845a3bc5a510077dd53a9.clg07azjl.paperspacegradient.com/generate/",
+      "https://d0d003759813643dba8a817506f758c57.clg07azjl.paperspacegradient.com//generate/",
       {
         method: "POST",
         headers: {
