@@ -1,3 +1,22 @@
+You have two options to customize your client:
+
+1. Use the full code from this repository as-is.
+
+2. Use the prompt provided below to generate your own code via Cursor.ai.
+
+
+
+In both cases, make sure to replace the API route URL with a link to your own server:
+
+* If you’re using the code from this repo, update the server link in the API route.
+
+* If you’re using Cursor.ai, update the link directly within the prompt.
+
+
+
+This step is essential for the client to work correctly with your own backend.
+
+
 ## Prompt
 
 The application should be a single-page OnePager app styled to resemble ChatGPT. It should have:
